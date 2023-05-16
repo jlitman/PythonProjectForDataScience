@@ -1,2 +1,2 @@
 # PythonProjectForDataScience
-Final Assignment for Python for Data Sciience Course
+Final Assignment for Python for Data Science Course
